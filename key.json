@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "armenian-dialect",
+  "private_key_id": "7fe86387ed374f1f3ea8221fab68b568f9c0997d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRuVw1KZK9OBMb\n0nxw/hjuQDygxmVka6h4i81UobVKtdk4uVbH9rIuWf7HOKEDbBKNVAgVla3tlgRV\nqFPgkf18MVjRAXdCyFBERIqDLL/rRnTnGMPkvMXQCb3/NgVikEqYa/N6ZcJ2T+6x\n72sIZOM0ch2HG8iDS2lP+gxqw1BFDoR157ybQYb3wYG8EXTPsfOEFZOgm3KfYT2s\nEqJwbg2+i+xmYa0C6Mw83m1tiOUi5VyLL0DR32eAcLElQhCukq5oaVI7zQVq6AhW\nmuUbiALNbwh+k2eXsA/MOY5nsis/5C4wzV9cggxOPb7yiZ6w+LMHwp+PctrjIDnC\n2k8Jdg9ZAgMBAAECggEADHiA8BnBMYlBdWGTfbX5GzaLGbUwyyG9dqd8KHB4S875\nKnYN+6ncgMP53kG14c2XXtngoTxAeLMcZtozZ2YG++BbOfO2qZPr7pOxCN3FBNTw\nPzCq3wHaqd2TkWolltRDVfzzBrf7ptVbV4XmMn8zxHK5nSzfAYFsH0iGVIKndWlS\nDWLeVM5cyWdBFSf/hKaXXlGz+0/NM8icQCsX4eDHPwI7lYmRFMLuHojDeltIVcai\nX6Z8OXD7BGkaZTfkwsPsWajrADEpgSvH4+n930a/MsfU9vpzvN99iqCa3t9xWVm2\nZL6KSYoDibeYFS6veZHlJt0dW6hUYMzHyeZJWhrlCQKBgQDJVtr8D85j28fGQOpp\nZhCr6keFkBRZJFbEPAQ7JRkVW24xMhDDaUfHvV71Vl6jcN+YI1fTd1wUpJxHDYEx\n9cS28rznDbIJ+n26u2AfybtjuGhSRhMYcVc83ygF9Ymt3NDhlWYnguaVOu7jmOnJ\ndYYzi/C+waIzaUv9MHB2llCe5QKBgQC5STq6wz3vBCWe43hxyZ3PTrcyJXFq4nVO\nD+9c0e6DrsA5JkAh7xNupamZUIdoyaUs8Uj5jjgryqOPcETI9vzLCxSHEG3AG7U6\nBAkv7xv/zXnucPHuu5Ko+RECF0PAp4RrU/6fBuVt6b4C9RQ4c+qC6wWPnKWWJc/r\nSvPpAETzZQKBgGxVRqj/3D6Q4FJFVZv2phvKiEdOehRo4CLgZCpq0K9ULdtco/Zx\nLIVF2NVLbsqkjjqvMa9/9tTIqan1k0GNixYhUBFGpjiGRqZ18cfI5QJIFCHIwLeT\nLKx9Kmzia/1X5jCrEXdLEMTVG/rsqUaT7OzJbHVHfP4Kty95o9m7EZAdAoGAKKkn\nWEDsYH16fAnTLrVeClZt4XVSFHCp6X2Zu7beLsu0p1X7kPbUPt3gACMp9Bb8RoaU\nyx8ouIN5rUqn7ao2A6Dk2lcCnrv140trcLd6X4KKFYd3sDo9jxNJZjoQxkB80MjY\nAbITuzEmX6PE0jat6hkFWWS4+eBGZo5GRIWom/kCgYEAgx436g09DOqTWjZelVLE\nGZFv1r/duAw7pk8GzIvCR1MLcupYGirXRyq4bciDot7Ohp93AoNuN/YafRjtNfvX\nxbsM19X2vk6re5QOnpYt5QhkfO+EOU0dEMdFVc6Ioqm8XxlcOLr636fA2BRzFXAC\nEzmTnWFQWqyrK4EjAeZqvHs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "armdialect-service-acc@armenian-dialect.iam.gserviceaccount.com",
+  "client_id": "102563567489771674973",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/armdialect-service-acc%40armenian-dialect.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
